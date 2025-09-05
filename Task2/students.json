@@ -1,0 +1,105 @@
+{
+  "students": [
+    {
+      "id": "S001",
+      "name": "Ali Raza",
+      "gender": "Male",
+      "age": 20,
+      "degree_program": "BS Computer Science",
+      "university_name": "National University of Sciences and Technology",
+      "guardian_name": "Raza Ahmed",
+       "CGPA" : 2.98
+      
+    },
+    {
+      "id": "S002",
+      "name": "Ayesha Khan",
+      "gender": "Female",
+      "age": 21,
+      "degree_program": "BS Software Engineering",
+      "university_name": "COMSATS University Islamabad",
+      "guardian_name": "Nadeem Khan",
+       "CGPA" : 3.56
+    },
+    {
+      "id": "S003",
+      "name": "Hamza Ali",
+      "gender": "Male",
+      "age": 22,
+      "degree_program": "BS Electrical Engineering",
+      "university_name": "University of Engineering and Technology Lahore",
+      "guardian_name": "Ali Hussain",
+      "CGPA" : 3.34
+    },
+    {
+      "id": "S004",
+      "name": "Sara Malik",
+      "gender": "Female",
+      "age": 20,
+      "degree_program": "BS Artificial Intelligence",
+      "university_name": "FAST National University",
+      "guardian_name": "Imran Malik",
+      "CGPA" : 3.64
+    },
+    {
+      "id": "S005",
+      "name": "Usman Tariq",
+      "gender": "Male",
+      "age": 23,
+      "degree_program": "BS Data Science",
+      "university_name": "Lahore University of Management Sciences",
+      "guardian_name": "Tariq Mehmood",
+      "CGPA" : 3.9
+    },
+    {
+      "id": "S006",
+      "name": "Zainab Fatima",
+      "gender": "Female",
+      "age": 19,
+      "degree_program": "BS Cyber Security",
+      "university_name": "Information Technology University Lahore",
+      "guardian_name": "Salman Fatima",
+      "CGPA" : 3.8
+    },
+    {
+      "id": "S007",
+      "name": "Bilal Hussain",
+      "gender": "Male",
+      "age": 22,
+      "degree_program": "BS Mechanical Engineering",
+      "university_name": "Ghulam Ishaq Khan Institute of Engineering Sciences",
+      "guardian_name": "Hussain Shah",
+      "CGPA" : 3.7
+    },
+    {
+      "id": "S008",
+      "name": "Mariam Saeed",
+      "gender": "Female",
+      "age": 21,
+      "degree_program": "BS Biotechnology",
+      "university_name": "Quaid-i-Azam University Islamabad",
+      "guardian_name": "Saeed Akhtar",
+      "CGPA" : 3.1
+    },
+    {
+      "id": "S009",
+      "name": "Ahmad Nawaz",
+      "gender": "Male",
+      "age": 24,
+      "degree_program": "BS Civil Engineering",
+      "university_name": "NED University of Engineering and Technology Karachi",
+      "guardian_name": "Nawaz Khan",
+      "CGPA" : 3.2
+    },
+    {
+      "id": "S010",
+      "name": "Fatima Noor",
+      "gender": "Female",
+      "age": 20,
+      "degree_program": "BS Psychology",
+      "university_name": "Punjab University Lahore",
+      "guardian_name": "Noor Ahmed",
+      "CGPA" : 3.3
+    }
+  ]
+}
